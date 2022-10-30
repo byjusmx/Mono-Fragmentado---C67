@@ -75,6 +75,7 @@ export default class App extends React.Component {
   }
 }
 
+/*Comentario*/
 const styles = StyleSheet.create({
   container: {
     flex: 1,
