@@ -78,7 +78,7 @@ export default class App extends React.Component {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#b8b8b8',
+    backgroundColor: '#b8b8b5', //cambie el color de fondo
   },
   inputBox: {
     marginTop: 50,
